@@ -1,2 +1,2 @@
 # cvitae
-Informacion Personal
+Informacion Personal para conocimiento de empresas.
